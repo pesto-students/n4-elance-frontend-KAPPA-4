@@ -1,29 +1,28 @@
-# Elance - Where businesses are built and careers are thrived
-<!-- This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## Elance
+<!-- _Elance is fully responsive digital platform where freelancers and clients to connect, collaborate and communicate to build projects of varied niches. It aims to make it easier for clients to post jobs and hire freelancers also for freelancers to apply for jobs and get hired for projects._ -->
+_Elance is a fully responsive digital platform where freelancers and clients connect, collaborate and communicate to build projects of varied niches. It aims to make it easier for clients to post jobs and hire freelancers also for freelancers to apply for jobs and get hired for projects._
+## Built With:
+* Frontend
+  - <code>React JS V17.0+</code>
+  - <code>Next Js V11.1.0+</code>
+  - <code>JavaScript 2021, 12th edition</code>
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+* Backend
+  - <code>Node JS V10+</code>
+  - <code>Express JS V4.7+</code>
+  - <code>JavaScript 2021, 12th edition</code>
+  - <code>MongoDB 4.4</code>
+  - <code>Mongoose V5.13.2</code>
 
-## Preview
+* Prerequisites
+  - Your system must have <code>Node v10.16.3+.</code>
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+* Frontend
+  - Clone - <code>https://github.com/pesto-students/n4-elance-frontend-KAPPA-4</code>
+  - Install required packages using - <code>npm i</code>
+  - Run Application : <code>npm run start</code>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss) -->
-
-## How to use
-<!-- 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
- -->
+* Backend
+  - Clone - <code>https://github.com/pesto-students/n4-elance-backend-kapa-4</code>
+  - Install required packages using - <code>npm i</code>
+  - Run Application : <code>npm start</code>
